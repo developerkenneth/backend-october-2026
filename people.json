@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "name": "success",
+      "age": 23,
+      "height": "6'2s"
+    },
+    {
+      "name": "success",
+      "age": 23,
+      "height": "6'2s"
+    },
+    {
+      "name": "success",
+      "age": 23,
+      "height": "6'2s"
+    }
+  ]
+}
